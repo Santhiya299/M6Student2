@@ -32,12 +32,8 @@ public class Advance_xpath_scenario2
 			String name=i.next().getText();
 			String price=ii.next().getText();
 			System.out.println(name+"----->"+price);
-		}
+		}		
 		
-		
-		
-	}
-
-	
+	}	
 }
 
